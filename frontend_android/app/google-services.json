@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431341699040",
+    "firebase_url": "https://assetmanager-fb3e6.firebaseio.com",
+    "project_id": "assetmanager-fb3e6",
+    "storage_bucket": "assetmanager-fb3e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431341699040:android:a5bbf564fb8bafa5b67585",
+        "android_client_info": {
+          "package_name": "com.example.assetmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431341699040-8vl0mmengg7c1aosih8m1th5hbquq06d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvqC7_WSmwOHHH7cqXa4BkOXNnm2G78g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431341699040-8vl0mmengg7c1aosih8m1th5hbquq06d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

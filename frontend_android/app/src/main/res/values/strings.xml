@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AssetManager</string>
+    <string name="make_account">Link your financial institutions</string>
+
+    <string name="success">Your <b>%1$s</b> <b>%2$s</b> account has been added!
+        \n
+        \nAdd more accounts below by clicking Link Account</string>
+
+    <string name="content_cancelled">Plaid Link was cancelled</string>
+
+    <string name="content_exit">
+    Error:\n\"%1$s\"
+        \nCode: <b>%2$s</b></string>
+
+    <string name="signup">Don\'t have an account? <u>Sign up here.</u></string>
+    <string name="signin">Already have an account? <u>Sign in here.</u></string>
+
+    <string name="viewAssets">Done? <u>View Assets here</u></string>
+</resources>
